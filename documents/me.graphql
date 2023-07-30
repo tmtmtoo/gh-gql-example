@@ -1,0 +1,8 @@
+query Me {
+  viewer {
+    login
+    name
+    bio
+    createdAt
+  }
+}
